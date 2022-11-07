@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="NLW Copa" src=".github/logo.svg" />
-</p>
-
 <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
 
 </p>
@@ -11,7 +7,7 @@
 Calendário de jogos da Copa do Mundo 2022.
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/capa.jpg" width="100%">
+  <img alt="calendario da copa" src=".github/Capa.jpg" width="100%">
 </p>
 
 ## ✨ Tecnologia
